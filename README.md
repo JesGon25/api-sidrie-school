@@ -1,4 +1,4 @@
-# Adonis API application
+# Adonis API application SIDRIE SCHOOL
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 
@@ -26,3 +26,5 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### CLONE THIS REPOSITORY
